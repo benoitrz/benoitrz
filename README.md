@@ -1,4 +1,4 @@
-Hiya! 👋. 
+Hiya! 👋 
 
 I'm a senior software engineer based in Glasgow, Scotland.
 
